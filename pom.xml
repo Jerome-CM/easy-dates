@@ -4,6 +4,11 @@
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+    </properties>
+
     <groupId>com.cm</groupId>
     <artifactId>easy-dates</artifactId>
     <version>1.0.0</version>
@@ -27,4 +32,14 @@
             <name>Jérôme Bouteveille</name>
         </developer>
     </developers>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.10.0</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
 </project>
