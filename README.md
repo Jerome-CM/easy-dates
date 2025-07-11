@@ -37,6 +37,9 @@ Pour utiliser la dépendance, ajouter à votre pom ceci :
 <dependencies>
 ````
 
+### Rappel :
+<img width="2080" height="1384" alt="Easy-Dates" src="https://github.com/user-attachments/assets/595e9597-993b-444f-ba5a-bb38d491f033" />
+
 ### Vous voulez contribuer au projet ? 
 
 - Faites un fork
