@@ -7,16 +7,18 @@
 
 Le projet à pour but de faciliter la conversion des dates en Java.
 
-En entrée un objet :
+### En entrée un objet :
 - Date
 - LocalDate
 - LocalDateTime
 
-En sortie : 
+### En sortie : 
 - Un pattern (dd/MM/yyyy par exemple)
 - Date
 - LocalDate
 - LocalDateTime
+
+## Facile à utiliser :
 
 Pour utiliser la dépendance, ajouter à votre pom ceci :
 
@@ -36,6 +38,9 @@ Pour utiliser la dépendance, ajouter à votre pom ceci :
     </dependency>
 <dependencies>
 ````
+## Puis dans vontre code :
+
+<img width="2768" height="1112" alt="Easy-Dates (3)" src="https://github.com/user-attachments/assets/5618b057-32ae-43b9-8e9e-6e2c2394d8c9" />
 
 ### Rappel :
 
