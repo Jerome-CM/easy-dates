@@ -38,10 +38,13 @@ Pour utiliser la dépendance, ajouter à votre pom ceci :
 ````
 
 ### Rappel :
-<img width="2080" height="1384" alt="Easy-Dates" src="https://github.com/user-attachments/assets/595e9597-993b-444f-ba5a-bb38d491f033" />
-<img width="2296" height="1472" alt="Easy-Dates (1)" src="https://github.com/user-attachments/assets/2e85058f-4f5e-4a0d-b3e4-c065daba094d" />
-<img width="2660" height="1204" alt="Easy-Dates (2)" src="https://github.com/user-attachments/assets/ce975454-2f86-4583-bb02-a3bee7eaa3af" />
 
+#### Date :
+<img width="2080" height="1384" alt="Easy-Dates" src="https://github.com/user-attachments/assets/595e9597-993b-444f-ba5a-bb38d491f033" />
+#### Heure :
+<img width="2296" height="1472" alt="Easy-Dates (1)" src="https://github.com/user-attachments/assets/2e85058f-4f5e-4a0d-b3e4-c065daba094d" />
+#### Exemples :
+<img width="2660" height="1204" alt="Easy-Dates (2)" src="https://github.com/user-attachments/assets/ce975454-2f86-4583-bb02-a3bee7eaa3af" />
 
 ### Vous voulez contribuer au projet ? 
 
