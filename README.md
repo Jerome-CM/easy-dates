@@ -32,7 +32,7 @@ Pour utiliser la dépendance, ajouter à votre pom ceci :
     <dependency>
       <groupId>com.github.Jerome-CM</groupId>
       <artifactId>easy-dates</artifactId>
-      <version>1.0.0</version>
+      <version>1.0.2</version>
     </dependency>
 <dependencies>
 ````
