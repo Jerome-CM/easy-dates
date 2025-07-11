@@ -1,7 +1,20 @@
-Bienvenue sur le projet
+Bienvenue sur le projet Easy Dates
 
+Le projet à pour but de faciliter la conversion des dates en Java.
 
-Pour utiliser la dependance, ajouter à votre pom ceci :
+En entrée un objet :
+- Date
+- LocalDate
+- LocalDateTime
+
+En sortie : 
+- Un pattern (dd/MM/yyyy par exemple)
+- Date
+- LocalDate
+- LocalDateTime
+
+Pour utiliser la dépendance, ajouter à votre pom ceci :
+
 ````
 <repositories>
   <repository>
@@ -10,9 +23,11 @@ Pour utiliser la dependance, ajouter à votre pom ceci :
   </repository>
 </repositories>
 
-<dependency>
-  <groupId>com.github.Jerome-CM</groupId>
-  <artifactId>easy-dates</artifactId>
-  <version>1.0.0</version>
-</dependency>
+<dependencies>
+    <dependency>
+      <groupId>com.github.Jerome-CM</groupId>
+      <artifactId>easy-dates</artifactId>
+      <version>1.0.0</version>
+    </dependency>
+<dependencies>
 ````
