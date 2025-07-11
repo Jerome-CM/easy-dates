@@ -38,7 +38,7 @@ Pour utiliser la dépendance, ajouter à votre pom ceci :
     </dependency>
 <dependencies>
 ````
-## Puis dans vontre code :
+## Puis dans votre code :
 
 <img width="2768" height="1112" alt="Easy-Dates (3)" src="https://github.com/user-attachments/assets/5618b057-32ae-43b9-8e9e-6e2c2394d8c9" />
 
