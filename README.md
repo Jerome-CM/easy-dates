@@ -7,7 +7,7 @@
 
 Le projet à pour but de faciliter la conversion des dates en Java.
 
-### En entrée un objet :
+### En entrée, un objet au choix :
 - Date
 - LocalDate
 - LocalDateTime
