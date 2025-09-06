@@ -13,7 +13,7 @@ Le projet à pour but de faciliter la conversion des dates en Java.
 - LocalDateTime
 
 ### En sortie : 
-- Un pattern (dd/MM/yyyy par exemple)
+- String ( un pattern (dd/MM/yyyy par exemple))
 - Date
 - LocalDate
 - LocalDateTime
