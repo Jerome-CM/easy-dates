@@ -24,17 +24,19 @@ Pour utiliser la dépendance, ajouter à votre pom ceci :
 
 ````
 <repositories>
-  <repository>
-    <id>jitpack.io</id>
-    <url>https://jitpack.io</url>
-  </repository>
+    ... other repository
+    <repository>
+      <id>jitpack.io</id>
+      <url>https://jitpack.io</url>
+    </repository>
 </repositories>
 
 <dependencies>
+    ... other dependency
     <dependency>
       <groupId>com.github.Jerome-CM</groupId>
       <artifactId>easy-dates</artifactId>
-      <version>1.0.2</version>
+      <version>1.0.0</version>
     </dependency>
 <dependencies>
 ````
